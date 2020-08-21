@@ -11,14 +11,14 @@ Sections on Main Page
 1. Name Splash Page
   - Background of 
 	  - Orange County
-		- Vietnam 
-		- SB
-		- LA
+		  Vietnam 
+		  SB
+		  LA
 	- Tag Lines: 
 	  - Jack of All Trades
-		- IT Tactician
-		- Coding Ninja
-		- Software Enthusiast
+		  IT Tactician
+		  Coding Ninja
+		  Software Enthusiast
 2. Intro
   - Brief Description and Picture to the Side
 3. Skills
@@ -28,7 +28,7 @@ Sections on Main Page
     or just 3 and then a more projects button
 5. Contact & Social Accounts
   - LinkedIn
-	- GitHub
+	  GitHub
 	
 Individual Page for each Project
 - Slideshow of Interesting Screens
@@ -38,3 +38,9 @@ Individual Page for each Project
   - Possibly expansive on interesting facets
 - GitHub Link to Code
 - Link to Live Example
+
+#### HTTPS
+Probably Last Step
+
+#### Extra's
+Pagination Buttons
